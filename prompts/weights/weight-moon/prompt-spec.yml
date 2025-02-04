@@ -3,8 +3,8 @@ uuid: "bb91fb1a-7691-43c8-9422-cd00dd2276d5"
 id: "3184459353131183434"
 name: "weight-moon"
 group: "weights"
-version: null
-revision: 2
+version: "1"
+revision: 3
 description: "Generated from default template"
 evaluationSpec: null
 evaluationResults: {}
