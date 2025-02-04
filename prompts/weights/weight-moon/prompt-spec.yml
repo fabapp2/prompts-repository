@@ -1,0 +1,21 @@
+---
+uuid: "bb91fb1a-7691-43c8-9422-cd00dd2276d5"
+id: "3184459353131183434"
+name: "weight-moon"
+group: "weights"
+version: null
+revision: 2
+description: "Generated from default template"
+evaluationSpec: null
+evaluationResults: {}
+path: "file:///Users/fk/IdeaProjects/prompttools4j/prompteval/apps/prompteval-cli/prompts/weights/weight-moon/prompt-spec.yml"
+request: !<chat/completion>
+  vendor: "openai"
+  url: "https://api.openai.com/v1/chat/completions"
+  messages:
+  - content: "How much does the moon weigh?"
+    role: "user"
+    name: null
+response: !<chat/completion>
+  content: "The moon weighs approximately \\(7.35 \\times 10^{22}\\) kilograms. This\
+    \ is about 1/81th the mass of the Earth."
